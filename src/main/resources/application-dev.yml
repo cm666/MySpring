@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /boy
+  port: 8080
+
+girl:
+  cupSize: C
+  name: 蔡敏
+  age: 21
